@@ -1,0 +1,7 @@
+@inproceedings{yu2020jafpro,
+  title={JAFPro: Joint Appearance Fusion and Propagation for Human Video Motion Transfer from Multiple Reference Images},
+  author={Yu, Xianggang and Liu, Haolin and Han, Xiaoguang and Li, Zhen and Xiong, Zixiang and Cui, Shuguang},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={2544--2552},
+  year={2020}
+}

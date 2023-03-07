@@ -1,0 +1,7 @@
+@inproceedings{yan2021pixel,
+  title={Pixel-level intra-domain adaptation for semantic segmentation},
+  author={Yan, Zizheng and Yu, Xianggang and Qin, Yipeng and Wu, Yushuang and Han, Xiaoguang and Cui, Shuguang},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={404--413},
+  year={2021}
+}

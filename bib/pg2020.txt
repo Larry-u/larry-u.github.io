@@ -1,0 +1,6 @@
+@article{li2020deep,
+  title={A deep learning based interactive sketching system for fashion images design},
+  author={Li, Yao and Yu, Xianggang and Han, Xiaoguang and Jiang, Nianjuan and Jia, Kui and Lu, Jiangbo},
+  journal={arXiv preprint arXiv:2010.04413},
+  year={2020}
+}
