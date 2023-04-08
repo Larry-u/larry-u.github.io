@@ -1,0 +1,6 @@
+@inproceedings{yu2023mvimgnet,
+  author    = {Yu, Xianggang and Xu, Mutian and Zhang, Yidan and Liu, Haolin and Ye, Chongjie and Wu, Yushuang and Yan, Zizheng and Liang, Tianyou and Chen, Guanying and Cui, Shuguang, and Han, Xiaoguang},
+  title     = {MVImgNet: A Large-scale Dataset of Multi-view Images},
+  booktitle = {CVPR},
+  year      = {2023}
+}
