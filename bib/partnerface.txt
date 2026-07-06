@@ -1,0 +1,9 @@
+@misc{yu2026partnerfacepartbasedneuralradiance,
+      title={PartNerFace: Part-based Neural Radiance Fields for Animatable Facial Avatar Reconstruction}, 
+      author={Xianggang Yu and Lingteng Qiu and Xiaohang Ren and Guanying Chen and Shuguang Cui and Xiaoguang Han and Baoyuan Wang},
+      year={2026},
+      eprint={2604.13918},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.13918}, 
+}
